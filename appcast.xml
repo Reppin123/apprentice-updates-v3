@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Apprentice F&amp;F (v0.3+ track)</title>
+    <link>https://raw.githubusercontent.com/Reppin123/apprentice-updates-v3/main/appcast.xml</link>
+    <description>Auto-update feed for the Apprentice F&amp;F v0.3+ beta (v5 perception pipeline). Separate from the 0.2.x apprentice-updates feed so 0.2.1 clients never cross-update.</description>
+    <language>en</language>
+  </channel>
+</rss>
