@@ -8,6 +8,18 @@
     <description>Auto-update feed for the Apprentice F&amp;F v0.3+ beta (v5 perception pipeline). Separate from the 0.2.x apprentice-updates feed so 0.2.1 clients never cross-update.</description>
     <language>en</language>
     <item>
+        <title>Apprentice 0.3.15</title>
+        <pubDate>Tue, 21 Jul 2026 07:27:00 +0000</pubDate>
+        <sparkle:version>0.3.15</sparkle:version>
+        <sparkle:shortVersionString>0.3.15</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        <enclosure
+            url="https://github.com/Reppin123/apprentice-updates-v3/releases/download/v0.3.15/Apprentice-0.3.15.zip"
+            length="398657094"
+            type="application/octet-stream"
+            sparkle:edSignature="j2u4NK3emR/3XVTnru3QaIl99I1DWtKGS0YT+SyQBs/3YUqHvjVq0kytueWrJjjT29axuMsA91UV+hJM3EVfAg==" />
+    </item>
+    <item>
         <title>Apprentice 0.3.14</title>
         <pubDate>Mon, 20 Jul 2026 16:01:27 +0000</pubDate>
         <sparkle:version>0.3.14</sparkle:version>
