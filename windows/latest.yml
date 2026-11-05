@@ -1,0 +1,8 @@
+version: 0.3.39
+files:
+  - url: https://github.com/Reppin123/apprentice-updates-v3/releases/download/v0.3.39/Apprentice-Setup-0.3.39.exe
+    sha512: 6kLb4j0a0zN6qx+srla1fb1QzvCjCRwsVjymrJgJu9qsmXV/UvTDTl9S7szdOOUjJTm7yKCHpz701c2zbAQiyQ==
+    size: 520384912
+path: https://github.com/Reppin123/apprentice-updates-v3/releases/download/v0.3.39/Apprentice-Setup-0.3.39.exe
+sha512: 6kLb4j0a0zN6qx+srla1fb1QzvCjCRwsVjymrJgJu9qsmXV/UvTDTl9S7szdOOUjJTm7yKCHpz701c2zbAQiyQ==
+releaseDate: '2026-11-05T02:50:07.589Z'
